@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "fullname": "jatin",
+    "address": "Khodu",
+    "phoneNumber": "8000111069",
+    "email": "jatin@gmail.com"
+  },
+  {
+    "id": 2,
+    "fullname": "Pankaj",
+    "address": "A.bad",
+    "phoneNumber": "7878787878",
+    "email": "pankaj@gmail.com"
+  },
+  {
+    "id": 3,
+    "fullname": "Hevin",
+    "address": "G.nagar",
+    "phoneNumber": "8000001069",
+    "email": "hevin@gmail.com"
+  },
+  {
+    "id": 4,
+    "fullname": "Darshan",
+    "address": "S.nagar",
+    "phoneNumber": "9999999999",
+    "email": "darshan@gmail.com"
+  },
+  {
+    "id": 5,
+    "fullname": "Kavy",
+    "address": "Vadodara",
+    "phoneNumber": "9601645555",
+    "email": "kavi@gmail.com"
+  },
+  {
+    "id": 6,
+    "fullname": "Ravi",
+    "address": "Surat",
+    "phoneNumber": "9601545555",
+    "email": "Ravi@gmail.com"
+  }
+]
